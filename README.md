@@ -1,7 +1,5 @@
 # Deep Learning From Scratch
 
---
-
 This repository contains my hands-on implementations while studying deep learning.
 
 The focus is on understanding core concepts by implementing them from scratch or with minimal use of frameworks.  
