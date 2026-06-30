@@ -7,6 +7,3 @@ The code evolves as my learning progresses.
 
 ## Structure
 Each folder represents a concept, experiment, or model explored during the learning process.
-
-## Note
-These are educational implementations intended for learning and experimentation, not production-ready projects.
